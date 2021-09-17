@@ -23,3 +23,10 @@ drop-down list - allows the user to choose one value from a list.
 # Screenshot
 
 ![image](https://user-images.githubusercontent.com/88819472/133829805-5dd1e24c-6109-4b0c-9679-26c561fa8db3.png)
+
+![image](https://user-images.githubusercontent.com/88819472/133829940-02ca4388-0657-4f1b-92f5-74cce6e8257a.png)
+
+![image](https://user-images.githubusercontent.com/88819472/133830062-ffd179bc-e9db-4278-9805-b562262516c8.png)
+
+![image](https://user-images.githubusercontent.com/88819472/133830104-5e9104b1-f588-478f-a5f1-f78c53f4f6dc.png)
+
